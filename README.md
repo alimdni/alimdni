@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alimdni
 - 👀 I’m interested in technology, astronomy, books, sports, ...
 - 🌱 I’m currently learning new technologies related to devops Engineering.
-- 💞️ I’m looking to collaborate on the projects which are challenging which I could gain added values.
+- 💞️ I’m looking to collaborate on the projects which are challenging that could gain me added values.
 - 📫 How to reach me, you can reach me via email(alimadanisam@gmail.com) or you can connect me through Linkedin(www.linkedin.com/in/ali-madani-3a3b21189)
 
 <!---
