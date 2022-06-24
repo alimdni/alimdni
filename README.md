@@ -8,5 +8,5 @@
 alimdni/alimdni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-My name is Ali Madani, An Irainian who is eager to learn and exproience.
+My name is Ali Madani, An Irainian who is eager to learn and expreience.
 There is one moto that drives me through the life, Work for your plan and Plan for your work. yeah you read it right. ;)
